@@ -1164,3 +1164,278 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.22-06.57.21:696][978]LogFileHelpers: Saving map 'Level' took 0.574
 [2021.02.22-06.57.21:707][978]AssetCheck: New page: Asset Save: Level
 [2021.02.22-06.57.21:707][978]LogContentValidation: Display: Validating World /Game/Levels/Level.Level
+[2021.02.22-07.07.08:208][506]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.02.22-07.08.30:640][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.02.22-07.08.47:902][590]LogEditorViewport: Clicking on Actor (LMB): Brush (Door_Hole_1)
+[2021.02.22-07.08.49:393][700]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2021.02.22-07.09.23:232][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.02.22-07.09.23:237][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level" FILE="../../../../../Good_Or_Wicked/Good_Or_Wicked/Saved/Autosaves/Game/Levels/Level_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.02.22-07.09.23:575][999]LogSavePackage: Moving '../../../../../Good_Or_Wicked/Good_Or_Wicked/Saved/Level_Auto19891F53B4ABA85A58940B3837940BF7F.tmp' to '../../../../../Good_Or_Wicked/Good_Or_Wicked/Saved/Autosaves/Game/Levels/Level_Auto1.umap'
+[2021.02.22-07.09.23:582][999]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level' took 0.361
+[2021.02.22-07.09.23:582][999]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.361
+[2021.02.22-07.09.29:256][383]LogEditorViewport: Clicking on Actor (LMB): Brush (Door_Hole_1)
+[2021.02.22-07.09.31:010][509]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.02.22-07.09.44:978][353]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.02.22-07.09.51:968][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.02.22-07.09.52:766][780]LogSlate: Window 'Save Content' being destroyed
+[2021.02.22-07.09.52:823][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level" FILE="../../../../../Good_Or_Wicked/Good_Or_Wicked/Content/Levels/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.22-07.09.52:845][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.02.22-07.09.53:195][780]LogSavePackage: Moving '../../../../../Good_Or_Wicked/Good_Or_Wicked/Saved/LevelD74BD2A3428DBFC4F16ED0AB59BB1A94.tmp' to '../../../../../Good_Or_Wicked/Good_Or_Wicked/Content/Levels/Level.umap'
+[2021.02.22-07.09.53:249][780]LogFileHelpers: Saving map 'Level' took 0.427
+[2021.02.22-07.09.53:260][780]AssetCheck: New page: Asset Save: Level
+[2021.02.22-07.09.53:260][780]LogContentValidation: Display: Validating World /Game/Levels/Level.Level
+[2021.02.22-07.10.22:646][729]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.02.22-07.10.54:258][376]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.02.22-07.11.32:406][437]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.02.22-07.11.33:670][437]LogSlate: Window 'Save Content' being destroyed
+[2021.02.22-07.11.33:704][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level" FILE="../../../../../Good_Or_Wicked/Good_Or_Wicked/Content/Levels/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.22-07.11.33:742][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.02.22-07.11.34:372][437]LogSavePackage: Moving '../../../../../Good_Or_Wicked/Good_Or_Wicked/Saved/Level34D2C7F1458507C519EEE6BB9231EE51.tmp' to '../../../../../Good_Or_Wicked/Good_Or_Wicked/Content/Levels/Level.umap'
+[2021.02.22-07.11.34:465][437]LogFileHelpers: Saving map 'Level' took 0.762
+[2021.02.22-07.11.34:506][437]AssetCheck: New page: Asset Save: Level
+[2021.02.22-07.11.34:506][437]LogContentValidation: Display: Validating World /Game/Levels/Level.Level
+[2021.02.22-07.11.42:570][815]Cmd: DELETE
+[2021.02.22-07.11.42:571][815]Cmd: ACTOR DELETE
+[2021.02.22-07.11.42:767][815]LogEditorActor: Deleted Actor: Brush
+[2021.02.22-07.11.42:767][815]LogEditorActor: Deleted Actor: Brush
+[2021.02.22-07.11.42:767][815]LogEditorActor: Deleted Actor: Brush
+[2021.02.22-07.11.42:767][815]LogEditorActor: Deleted Actor: Brush
+[2021.02.22-07.11.42:768][815]LogEditorActor: Deleted Actor: Brush
+[2021.02.22-07.11.42:768][815]LogEditorActor: Deleted Actor: Brush
+[2021.02.22-07.11.42:768][815]LogEditorActor: Deleted Actor: Brush
+[2021.02.22-07.11.42:769][815]LogEditorActor: Deleted Actor: Brush
+[2021.02.22-07.11.42:793][815]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.02.22-07.11.42:966][815]LogEditorActor: Deleted 8 Actors (0.220 secs)
+[2021.02.22-07.11.45:649][  7]Cmd: DELETE
+[2021.02.22-07.11.45:649][  7]Cmd: ACTOR DELETE
+[2021.02.22-07.11.45:684][  7]LogEditorActor: Deleted Actor: Brush
+[2021.02.22-07.11.45:699][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.02.22-07.11.45:865][  7]LogEditorActor: Deleted 1 Actors (0.215 secs)
+[2021.02.22-07.11.49:084][245]Cmd: TRANSACTION UNDO
+[2021.02.22-07.11.49:084][245]LogEditorTransaction: Undo Delete Actors
+[2021.02.22-07.11.50:074][253]Cmd: TRANSACTION UNDO
+[2021.02.22-07.11.50:074][253]LogEditorTransaction: Undo Select Brush Surface
+[2021.02.22-07.11.50:693][283]Cmd: TRANSACTION UNDO
+[2021.02.22-07.11.50:693][283]LogEditorTransaction: Undo Delete Actors
+[2021.02.22-07.11.51:463][296]Cmd: TRANSACTION UNDO
+[2021.02.22-07.11.51:463][296]LogEditorTransaction: Undo Select Brush Surface
+[2021.02.22-07.11.52:343][348]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.22-07.11.54:093][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.02.22-07.11.55:032][434]LogSlate: Window 'Save Content' being destroyed
+[2021.02.22-07.11.55:067][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level" FILE="../../../../../Good_Or_Wicked/Good_Or_Wicked/Content/Levels/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.22-07.11.55:081][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.02.22-07.11.55:614][434]LogSavePackage: Moving '../../../../../Good_Or_Wicked/Good_Or_Wicked/Saved/Level5F6ED58D4EBF438806E5878684EC83F5.tmp' to '../../../../../Good_Or_Wicked/Good_Or_Wicked/Content/Levels/Level.umap'
+[2021.02.22-07.11.55:656][434]LogFileHelpers: Saving map 'Level' took 0.591
+[2021.02.22-07.11.55:671][434]AssetCheck: New page: Asset Save: Level
+[2021.02.22-07.11.55:671][434]LogContentValidation: Display: Validating World /Game/Levels/Level.Level
+[2021.02.22-07.17.57:425][108]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.02.22-07.18.08:880][ 77]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.02.22-07.18.41:496][452]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.02.22-07.19.18:611][ 88]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.02.22-07.19.31:480][ 34]Cmd: TRANSACTION UNDO
+[2021.02.22-07.19.31:480][ 34]LogEditorTransaction: Undo Move Actors
+[2021.02.22-07.19.31:851][ 34]Cmd: TRANSACTION UNDO
+[2021.02.22-07.19.31:851][ 34]LogEditorTransaction: Undo Set Scale
+[2021.02.22-07.19.32:202][ 34]Cmd: TRANSACTION UNDO
+[2021.02.22-07.19.32:202][ 34]LogEditorTransaction: Undo Set Scale
+[2021.02.22-07.19.33:271][ 73]Cmd: TRANSACTION UNDO
+[2021.02.22-07.19.33:271][ 73]LogEditorTransaction: Undo Move Actors
+[2021.02.22-07.19.33:716][ 74]Cmd: TRANSACTION UNDO
+[2021.02.22-07.19.33:716][ 74]LogEditorTransaction: Undo Move Actors
+[2021.02.22-07.19.34:370][ 85]Cmd: TRANSACTION UNDO
+[2021.02.22-07.19.34:370][ 85]LogEditorTransaction: Undo Move Actors
+[2021.02.22-07.19.42:768][616]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.02.22-07.19.54:332][302]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.02.22-07.19.55:003][302]LogSlate: Window 'Save Content' being destroyed
+[2021.02.22-07.19.55:055][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level" FILE="../../../../../Good_Or_Wicked/Good_Or_Wicked/Content/Levels/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.22-07.19.55:090][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.02.22-07.19.55:448][302]LogSavePackage: Moving '../../../../../Good_Or_Wicked/Good_Or_Wicked/Saved/Level508266B64569A53CDF455DA11746FD08.tmp' to '../../../../../Good_Or_Wicked/Good_Or_Wicked/Content/Levels/Level.umap'
+[2021.02.22-07.19.55:526][302]LogFileHelpers: Saving map 'Level' took 0.472
+[2021.02.22-07.19.55:542][302]AssetCheck: New page: Asset Save: Level
+[2021.02.22-07.19.55:542][302]LogContentValidation: Display: Validating World /Game/Levels/Level.Level
+[2021.02.22-07.20.18:430][835]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.02.22-07.20.51:215][870]Cmd: TRANSACTION UNDO
+[2021.02.22-07.20.51:215][870]LogEditorTransaction: Undo Set Scale
+[2021.02.22-07.20.54:967][108]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.02.22-07.21.37:631][711]LogUObjectHash: Compacting FUObjectHashTables data took   7.22ms
+[2021.02.22-07.21.38:632][711]LogSlate: Window 'Save Content' being destroyed
+[2021.02.22-07.21.38:687][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level" FILE="../../../../../Good_Or_Wicked/Good_Or_Wicked/Content/Levels/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.22-07.21.38:737][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.02.22-07.21.39:213][711]LogSavePackage: Moving '../../../../../Good_Or_Wicked/Good_Or_Wicked/Saved/LevelA49FE72247F7BA73040F88A96EC1FF48.tmp' to '../../../../../Good_Or_Wicked/Good_Or_Wicked/Content/Levels/Level.umap'
+[2021.02.22-07.21.39:333][711]LogFileHelpers: Saving map 'Level' took 0.647
+[2021.02.22-07.21.39:363][711]AssetCheck: New page: Asset Save: Level
+[2021.02.22-07.21.39:363][711]LogContentValidation: Display: Validating World /Game/Levels/Level.Level
+[2021.02.22-07.31.05:840][867]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.02.22-07.31.32:781][802]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.02.22-07.31.40:099][ 84]LogEditorViewport: Clicking on Actor (LMB): Brush (Pillar_5)
+[2021.02.22-07.32.49:528][141]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Pillar_5)
+[2021.02.22-07.32.55:027][339]LogEditorViewport: Clicking on Actor (LMB): Brush (Pillar_5)
+[2021.02.22-07.33.04:935][134]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Pillar_5)
+[2021.02.22-07.33.24:365][105]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2021.02.22-07.33.25:384][105]LogSlate: Window 'Save Content' being destroyed
+[2021.02.22-07.33.25:435][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level" FILE="../../../../../Good_Or_Wicked/Good_Or_Wicked/Content/Levels/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.22-07.33.25:521][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.02.22-07.33.25:985][105]LogSavePackage: Moving '../../../../../Good_Or_Wicked/Good_Or_Wicked/Saved/Level6CF77CCA444B45C45B0938864C5C28C1.tmp' to '../../../../../Good_Or_Wicked/Good_Or_Wicked/Content/Levels/Level.umap'
+[2021.02.22-07.33.26:086][105]LogFileHelpers: Saving map 'Level' took 0.653
+[2021.02.22-07.33.26:134][105]AssetCheck: New page: Asset Save: Level
+[2021.02.22-07.33.26:134][105]LogContentValidation: Display: Validating World /Game/Levels/Level.Level
+[2021.02.22-07.33.45:072][829]LogEditorViewport: Clicking on Actor (LMB): Brush (Pillar_9)
+[2021.02.22-07.34.05:316][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2021.02.22-07.34.06:370][ 17]LogSlate: Window 'Save Content' being destroyed
+[2021.02.22-07.34.06:417][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level" FILE="../../../../../Good_Or_Wicked/Good_Or_Wicked/Content/Levels/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.22-07.34.06:432][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.02.22-07.34.06:897][ 17]LogSavePackage: Moving '../../../../../Good_Or_Wicked/Good_Or_Wicked/Saved/LevelF691E4304B4FDFC2A11387849DB91DD5.tmp' to '../../../../../Good_Or_Wicked/Good_Or_Wicked/Content/Levels/Level.umap'
+[2021.02.22-07.34.06:956][ 17]LogFileHelpers: Saving map 'Level' took 0.540
+[2021.02.22-07.34.06:969][ 17]AssetCheck: New page: Asset Save: Level
+[2021.02.22-07.34.06:969][ 17]LogContentValidation: Display: Validating World /Game/Levels/Level.Level
+[2021.02.22-07.34.07:977][ 73]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.22-07.34.25:469][785]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.02.22-07.34.29:041][946]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.02.22-07.35.23:827][809]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.22-07.35.25:464][886]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.02.22-07.35.26:352][886]LogSlate: Window 'Save Content' being destroyed
+[2021.02.22-07.35.26:405][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level" FILE="../../../../../Good_Or_Wicked/Good_Or_Wicked/Content/Levels/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.22-07.35.26:451][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.02.22-07.35.27:397][886]LogSavePackage: Moving '../../../../../Good_Or_Wicked/Good_Or_Wicked/Saved/Level2FAEC93B428AE78C242BCCA27ABF2FC2.tmp' to '../../../../../Good_Or_Wicked/Good_Or_Wicked/Content/Levels/Level.umap'
+[2021.02.22-07.35.27:521][886]LogFileHelpers: Saving map 'Level' took 1.117
+[2021.02.22-07.35.27:571][886]AssetCheck: New page: Asset Save: Level
+[2021.02.22-07.35.27:571][886]LogContentValidation: Display: Validating World /Game/Levels/Level.Level
+[2021.02.22-07.35.32:186][ 46]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.02.22-07.35.32:232][ 46]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.22-07.35.32:232][ 46]PIE: New page: PIE session: Level (Feb 22, 2021, 11:35:32 AM)
+[2021.02.22-07.35.32:232][ 46]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level
+[2021.02.22-07.35.32:421][ 46]LogPlayLevel: PIE: StaticDuplicateObject took: (0.188068s)
+[2021.02.22-07.35.32:424][ 46]LogAIModule: Creating AISystem for world Level
+[2021.02.22-07.35.32:425][ 46]LogPlayLevel: PIE: World Init took: (0.004870s)
+[2021.02.22-07.35.32:426][ 46]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level.Level to /Game/Levels/UEDPIE_0_Level.Level (0.193516s)
+[2021.02.22-07.35.32:467][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.02.22-07.35.32:471][ 46]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.02.22-07.35.32:471][ 46]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.22-07.35.32:471][ 46]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.22-07.35.32:471][ 46]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.22-07.35.32:471][ 46]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.22-07.35.32:471][ 46]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.22-07.35.32:471][ 46]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.22-07.35.32:471][ 46]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.22-07.35.32:471][ 46]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.22-07.35.32:472][ 46]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.22-07.35.32:472][ 46]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.22-07.35.32:479][ 46]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.22-07.35.32:479][ 46]LogAudioMixer: Display: 1: FrontRight
+[2021.02.22-07.35.32:526][ 46]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.02.22-07.35.32:527][ 46]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.22-07.35.32:527][ 46]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.22-07.35.32:527][ 46]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.22-07.35.32:528][ 46]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.22-07.35.32:528][ 46]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.22-07.35.32:528][ 46]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.22-07.35.32:561][ 46]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.22-07.35.32:561][ 46]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.22-07.35.32:561][ 46]LogInit: FAudioDevice initialized.
+[2021.02.22-07.35.32:561][ 46]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level'.
+[2021.02.22-07.35.32:609][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.22-07.35.32:609][ 46]LogLoad: Game class is 'FP_GameMode_C'
+[2021.02.22-07.35.32:619][ 46]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2021.02.22-09.35.32
+[2021.02.22-07.35.32:621][ 46]LogWorld: Bringing up level for play took: 0.009687
+[2021.02.22-07.35.32:621][ 46]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.02.22-07.35.32:634][ 46]PIE: Server logged in
+[2021.02.22-07.35.32:637][ 46]PIE: Play in editor total start time 0.409 seconds.
+[2021.02.22-07.36.01:902][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.22-07.36.01:902][706]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level
+[2021.02.22-07.36.01:903][706]LogSlate: Window 'Good_Or_Wicked Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.02.22-07.36.01:982][706]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2021.02.22-07.36.01:984][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.22-07.36.02:037][706]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.22-07.36.02:101][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.22-07.36.02:120][706]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.22-07.36.02:121][706]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.22-07.36.02:123][706]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.22-07.36.02:187][706]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.02.22-07.36.02:279][707]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.02.22-07.36.04:892][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.02.22-07.37.02:010][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.02.22-07.44.04:272][177]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.02.22-07.44.23:834][841]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.02.22-07.44.24:437][877]Cmd: TRANSACTION UNDO
+[2021.02.22-07.44.24:437][877]LogEditorTransaction: Undo Move Actors
+[2021.02.22-07.44.24:821][877]Cmd: TRANSACTION UNDO
+[2021.02.22-07.44.24:821][877]LogEditorTransaction: Undo Move Actors
+[2021.02.22-07.44.37:042][471]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.02.22-07.44.40:189][736]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.02.22-07.44.50:784][461]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.22-07.45.55:308][460]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.02.22-07.45.55:315][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level" FILE="../../../../../Good_Or_Wicked/Good_Or_Wicked/Saved/Autosaves/Game/Levels/Level_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.02.22-07.45.55:775][460]LogSavePackage: Moving '../../../../../Good_Or_Wicked/Good_Or_Wicked/Saved/Level_Auto2D4E1FE20413EBAA91A181CB717629E80.tmp' to '../../../../../Good_Or_Wicked/Good_Or_Wicked/Saved/Autosaves/Game/Levels/Level_Auto2.umap'
+[2021.02.22-07.45.55:780][460]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level' took 0.499
+[2021.02.22-07.45.55:780][460]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.499
+[2021.02.22-07.55.56:046][741]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.02.22-07.55.56:051][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level" FILE="../../../../../Good_Or_Wicked/Good_Or_Wicked/Saved/Autosaves/Game/Levels/Level_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.02.22-07.55.56:521][741]LogSavePackage: Moving '../../../../../Good_Or_Wicked/Good_Or_Wicked/Saved/Level_Auto341F10D2D4AB3906BFC35BEB84DB127B7.tmp' to '../../../../../Good_Or_Wicked/Good_Or_Wicked/Saved/Autosaves/Game/Levels/Level_Auto3.umap'
+[2021.02.22-07.55.56:525][741]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level' took 0.520
+[2021.02.22-07.55.56:525][741]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.520
+[2021.02.22-07.57.35:330][914]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.02.22-07.57.38:766][105]LogEditorViewport: Clicking on Actor (LMB): Brush (Pillar_8)
+[2021.02.22-07.57.40:612][219]LogEditorViewport: Clicking on Actor (LMB): Brush (Pillar_15)
+[2021.02.22-07.58.07:456][504]Cmd: TRANSACTION UNDO
+[2021.02.22-07.58.07:457][504]LogEditorTransaction: Undo Set Scale
+[2021.02.22-07.58.21:593][440]LogEditorViewport: Clicking on Actor (LMB): Brush (Pillar_7)
+[2021.02.22-07.58.24:288][671]LogEditorViewport: Clicking on Actor (LMB): Brush (Pillar_16)
+[2021.02.22-07.58.29:289][ 12]LogEditorViewport: Clicking on Actor (LMB): Brush (Pillar_15)
+[2021.02.22-07.58.30:297][ 79]Cmd: DELETE
+[2021.02.22-07.58.30:297][ 79]Cmd: ACTOR DELETE
+[2021.02.22-07.58.30:371][ 79]LogEditorActor: Deleted Actor: Brush
+[2021.02.22-07.58.30:470][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2021.02.22-07.58.30:712][ 79]LogEditorActor: Deleted 1 Actors (0.413 secs)
+[2021.02.22-07.58.35:150][383]Cmd: TRANSACTION UNDO
+[2021.02.22-07.58.35:150][383]LogEditorTransaction: Undo Delete Actors
+[2021.02.22-07.58.35:658][383]Cmd: TRANSACTION UNDO
+[2021.02.22-07.58.35:659][383]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.22-07.58.35:810][384]Cmd: TRANSACTION UNDO
+[2021.02.22-07.58.35:810][384]LogEditorTransaction: Undo Move Actors
+[2021.02.22-07.58.36:757][409]Cmd: TRANSACTION UNDO
+[2021.02.22-07.58.36:757][409]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.22-07.58.37:207][439]Cmd: TRANSACTION UNDO
+[2021.02.22-07.58.37:207][439]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.22-07.58.37:479][459]Cmd: TRANSACTION UNDO
+[2021.02.22-07.58.37:479][459]LogEditorTransaction: Undo Move Actors
+[2021.02.22-07.58.37:917][459]Cmd: TRANSACTION UNDO
+[2021.02.22-07.58.37:917][459]LogEditorTransaction: Undo Set Scale
+[2021.02.22-07.58.38:313][459]Cmd: TRANSACTION UNDO
+[2021.02.22-07.58.38:313][459]LogEditorTransaction: Undo Move Actors
+[2021.02.22-07.58.41:038][612]Cmd: TRANSACTION UNDO
+[2021.02.22-07.58.41:038][612]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.22-07.58.42:430][700]LogEditorViewport: Clicking on Actor (LMB): Brush (Pillar_15)
+[2021.02.22-07.58.59:856][396]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2021.02.22-07.59.01:131][396]LogSlate: Window 'Save Content' being destroyed
+[2021.02.22-07.59.01:185][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level" FILE="../../../../../Good_Or_Wicked/Good_Or_Wicked/Content/Levels/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.22-07.59.01:239][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.02.22-07.59.01:677][396]LogSavePackage: Moving '../../../../../Good_Or_Wicked/Good_Or_Wicked/Saved/Level5DBE142B45134D4DEECF7289B484F5F6.tmp' to '../../../../../Good_Or_Wicked/Good_Or_Wicked/Content/Levels/Level.umap'
+[2021.02.22-07.59.01:767][396]LogFileHelpers: Saving map 'Level' took 0.585
+[2021.02.22-07.59.01:779][396]AssetCheck: New page: Asset Save: Level
+[2021.02.22-07.59.01:779][396]LogContentValidation: Display: Validating World /Game/Levels/Level.Level
+[2021.02.22-07.59.32:511][553]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.02.22-07.59.41:889][946]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.02.22-08.00.33:076][205]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.22-08.00.37:327][321]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2021.02.22-08.00.38:066][321]LogSlate: Window 'Save Content' being destroyed
+[2021.02.22-08.00.38:129][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level" FILE="../../../../../Good_Or_Wicked/Good_Or_Wicked/Content/Levels/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.22-08.00.38:177][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.02.22-08.00.38:789][321]LogSavePackage: Moving '../../../../../Good_Or_Wicked/Good_Or_Wicked/Saved/Level2C0427524ACFBA4DB743E78D9FBF28AF.tmp' to '../../../../../Good_Or_Wicked/Good_Or_Wicked/Content/Levels/Level.umap'
+[2021.02.22-08.00.38:856][321]LogFileHelpers: Saving map 'Level' took 0.729
+[2021.02.22-08.00.38:898][321]AssetCheck: New page: Asset Save: Level
+[2021.02.22-08.00.38:898][321]LogContentValidation: Display: Validating World /Game/Levels/Level.Level
+[2021.02.22-08.01.30:409][618]Cmd: TRANSACTION UNDO
+[2021.02.22-08.01.30:409][618]LogEditorTransaction: Undo Set Scale
+[2021.02.22-08.01.49:618][748]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.02.22-08.02.46:551][564]Cmd: TRANSACTION UNDO
+[2021.02.22-08.02.46:551][564]LogEditorTransaction: Undo Set Location
+[2021.02.22-08.03.43:549][449]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.02.22-08.04.35:140][381]LogEditorViewport: Clicking Background
+[2021.02.22-08.04.53:794][948]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2021.02.22-08.04.54:968][948]LogSlate: Window 'Save Content' being destroyed
+[2021.02.22-08.04.55:040][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level" FILE="../../../../../Good_Or_Wicked/Good_Or_Wicked/Content/Levels/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.22-08.04.55:137][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.02.22-08.04.55:782][948]LogSavePackage: Moving '../../../../../Good_Or_Wicked/Good_Or_Wicked/Saved/LevelCD30D46B4BD0F8EA4E38C582E4CA3991.tmp' to '../../../../../Good_Or_Wicked/Good_Or_Wicked/Content/Levels/Level.umap'
+[2021.02.22-08.04.55:937][948]LogFileHelpers: Saving map 'Level' took 0.900
+[2021.02.22-08.04.55:979][948]AssetCheck: New page: Asset Save: Level
+[2021.02.22-08.04.55:979][948]LogContentValidation: Display: Validating World /Game/Levels/Level.Level
